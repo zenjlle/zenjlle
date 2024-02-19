@@ -4,7 +4,7 @@
 
 <br></br>
 <p align = "center"> ⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅ </p>  
-<p align = "center"> I am currently learning C# Programming in Unity Editor. </p>
+<p align = "center"> I am currently learning <b>C# Programming in Unity Editor.</b> </p>
 <p align = "center"> You can find my other works in my <a href="https://kyrstensasil.wixsite.com/sasil-eportfolio">website</a>.</p> 
 <p align = "center"> Feel free to reach out to me <a href="kyrstensasil.business@gmail.com">here</a>!</p> 
 <p align = "center"> ⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅ </p>

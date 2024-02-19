@@ -2,10 +2,10 @@
 
 
 
-<h1 align="center">Hi! I'm Kyrsten Shaen Sasil</h1>
-<h3 align="center">A 2nd Year Game Development Student from the Philippines</h3>
+<h2 align="center">Hi! I'm Kyrsten Shaen Sasil</h2>
+<h3 align="center">A 2nd Year Game Development Student from Jose Rizal University</h3>
 
-- I am currently learning **Unity programming in C#**
+- I am currently learning **C# Programming in Unity Editor**
 
 - You can find my other works in my [**website**](https://kyrstensasil.wixsite.com/sasil-eportfolio)
 

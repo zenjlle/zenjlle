@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kyrsten Shaen Sasil (zenjlle)</h1>
+<h1 align="center">Hi! I'm Kyrsten Shaen Sasil</h1>
 <h3 align="center">A 2nd Year Game Development Student from the Philippines</h3>
 
-- 🌱 I’m currently learning **Unity programming in C#, and Web Design**
+- Currently learning **Unity programming in C# in school, and Web Design as a hobby**
 
-- 👨‍💻 All of my projects are available at [https://kyrstensasil.wixsite.com/sasil-eportfolio](https://kyrstensasil.wixsite.com/sasil-eportfolio)
+- General Portfolio and Resume at [https://kyrstensasil.wixsite.com/sasil-eportfolio](https://kyrstensasil.wixsite.com/sasil-eportfolio)
 
-- 📫 How to reach me **kyrstensasil.business@gmail.com**
+- Reach me at **kyrstensasil.business@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

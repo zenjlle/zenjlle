@@ -1,11 +1,15 @@
+<img align = "center"> <img src = "https://raw.githubusercontent.com/zenjlle/zenjlle/main/Images/Banner.png">
+
+
+
 <h1 align="center">Hi! I'm Kyrsten Shaen Sasil</h1>
 <h3 align="center">A 2nd Year Game Development Student from the Philippines</h3>
 
-- Currently learning **Unity programming in C# in school, and Web Design as a hobby**
+- I am currently learning **Unity programming in C#**
 
-- General Portfolio and Resume at [https://kyrstensasil.wixsite.com/sasil-eportfolio](https://kyrstensasil.wixsite.com/sasil-eportfolio)
+- You can find my other works in my [**website**](https://kyrstensasil.wixsite.com/sasil-eportfolio)
 
-- Reach me at **kyrstensasil.business@gmail.com**
+- If you have any questions or concerns, you may reach out to me at **kyrstensasil.business@gmail.com**
 
 
 <p align="left">

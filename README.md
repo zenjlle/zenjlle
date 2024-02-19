@@ -1,16 +1,14 @@
 <img align = "center"> <img src = "https://raw.githubusercontent.com/zenjlle/zenjlle/main/Images/Banner.png">
 
+‧˚₊꒷꒦︶︶︶︶︶꒷꒦︶︶︶︶︶꒦꒷‧₊˚⊹‧˚₊꒷꒦︶︶︶︶︶꒷꒦︶︶︶︶︶꒦꒷‧₊˚⊹‧˚₊꒷꒦︶︶︶︶︶꒷꒦︶︶︶︶︶꒦꒷‧₊˚⊹‧˚₊꒷꒦︶︶︶︶︶꒷꒦︶︶︶︶︶꒦꒷‧₊˚⊹
 
-
-<h2 align="center">Hi! I'm Kyrsten Shaen Sasil</h2>
+<h2 align="center">Hi I'm Kyrsten. </h2>
 <h3 align="center">A 2nd Year Game Development Student from Jose Rizal University</h3>
 
-- I am currently learning **C# Programming in Unity Editor**
-
-- You can find my other works in my [**website**](https://kyrstensasil.wixsite.com/sasil-eportfolio)
-
-- If you have any questions or concerns, you may reach out to me at **kyrstensasil.business@gmail.com**
-
+  
+- I am currently learning **C# Programming in Unity Editor** <br>
+- You can find my other works in my [**website**](https://kyrstensasil.wixsite.com/sasil-eportfolio) <br>
+- If you have any questions or concerns, you may reach out to me [**here**](kyrstensasil.business@gmail.com) <br>
 
 <p align="left">
 </p>

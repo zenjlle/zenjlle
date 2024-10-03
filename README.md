@@ -1,10 +1,11 @@
 <p align = "center"> ‧˚₊꒷꒦︶︶︶︶꒷꒦︶︶︶︶꒦꒷‧₊˚⊹‧˚₊꒷꒦︶︶︶︶︶꒷꒦︶︶︶︶︶꒦꒷‧₊˚⊹‧˚₊꒷꒦︶︶︶︶︶꒷꒦︶︶︶︶︶꒦꒷‧₊˚⊹‧˚₊꒷꒦︶︶︶︶꒷꒦︶︶︶︶꒦꒷‧₊˚⊹ </p>
 <img align = "center"> <img src = "https://raw.githubusercontent.com/zenjlle/zenjlle/main/Images/Banner.png">
-<h3 align="center">───── ⋆⋅Hi I'm Kyrsten. A 2nd Year Game Development Student from Jose Rizal University⋅⋆ ─────</h3>
+<h3 align="center">───── ⋆⋅Hi I'm Kyrsten. A 3rd Year Game Development Student from Jose Rizal University⋅⋆ ─────</h3>
 
 <br></br>
 <p align = "center"> ⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅ </p>  
 <p align = "center"> I am currently learning <b>C# Programming in Unity Editor.</b> </p>
+<p align = "center"> I also enjoy creating 3D models in Blender.</b> </p>
 <p align = "center"> You can find my other works in my <a href="https://kyrstensasil.wixsite.com/sasil-eportfolio">website</a>.</p> 
 <p align = "center"> Feel free to reach out to me by emailing me at kyrstensasil.business@gmail.com !</p> 
 <p align = "center"> ⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅ </p>

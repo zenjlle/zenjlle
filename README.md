@@ -1,6 +1,6 @@
 <p align = "center"> ‧˚₊꒷꒦︶︶︶︶꒷꒦︶︶︶︶꒦꒷‧₊˚⊹‧˚₊꒷꒦︶︶︶︶︶꒷꒦︶︶︶︶︶꒦꒷‧₊˚⊹‧˚₊꒷꒦︶︶︶︶︶꒷꒦︶︶︶︶︶꒦꒷‧₊˚⊹‧˚₊꒷꒦︶︶︶︶꒷꒦︶︶︶︶꒦꒷‧₊˚⊹ </p>
 <img align = "center"> <img src = "https://raw.githubusercontent.com/zenjlle/zenjlle/main/Images/Banner.png">
-<h3 align="center">───── ⋆⋅Hi I'm Kyrsten. A 3rd Year Game Development Student from Jose Rizal University⋅⋆ ─────</h3>
+<h3 align="center">───── ⋆⋅Hi I'm Kyrsten. A Game Designer⋅⋆ ─────</h3>
 
 <br></br>
 <p align = "center"> ⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅ </p>  
